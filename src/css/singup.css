@@ -1,0 +1,14 @@
+.signupForm{
+    display:inline-block;
+    border: 1px black solid;
+    min-width: 20%;
+    max-width: 20%;
+
+    padding: 3rem;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.SignUp{
+    margin-top: 1rem;
+}

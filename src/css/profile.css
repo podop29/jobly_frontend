@@ -1,0 +1,11 @@
+.Profile{
+    display: inline-block;
+    background-color: rgb(219, 212, 212, 0.4);
+    border: 1px solid black;
+    border-radius: .5rem;
+    max-width: 15rem;
+    margin: auto;
+    margin-top: 2rem;
+    padding:2rem;
+}
+

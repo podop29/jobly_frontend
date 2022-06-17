@@ -1,0 +1,44 @@
+.cardP{
+
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+
+}
+.cardP2{
+
+    max-width: 30rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    
+
+}
+.red{
+    background-color: rgb(238, 76, 76);
+    color:white;
+    border: none;
+    max-width: 15rem;
+}
+
+.off{
+    background-color: rgb(238, 76, 76, .2);
+    color:white;
+    border: none;
+    max-width: 15rem;
+    cursor: default;
+    pointer-events: none;
+}
+.off:hover{
+    cursor: default;
+
+}
+
+.cardP:hover{
+    background-color: rgba(218, 215, 215, 0.674);
+    cursor: pointer;
+    transition-duration: .3s;
+
+
+}
